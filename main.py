@@ -7,7 +7,7 @@ from PIL import Image
 pytesseract.pytesseract.tesseract_cmd = r'C:\\Program Files\\Tesseract-OCR\\tesseract.exe'
 
 # Load the image file
-image_path = "C:\\Users\\HomePC\\Documents\\GitHub\\qAIz_master\\obr\\test1.png"
+image_path = "obr\\test1.png"
 image = Image.open(image_path)
 
 # Perform OCR on the image
