@@ -3,5 +3,5 @@
 
 
 GET STARTED
-- install library putesseract
+- install library pytesseract
     python -m pip install pytesseract
